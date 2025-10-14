@@ -1,4 +1,4 @@
-# open-Source-Part-2
+# Notes writer app
 
 Android mobile application built in Kotlin that demonstrates user authentication, settings management, and connection to a REST API. The app securely handles user data with encrypted local storage and provides a simple, user-friendly interface.
 
