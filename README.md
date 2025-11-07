@@ -10,7 +10,7 @@ Edit existing notes.
 Delete notes you no longer need.
 Automatically saves your notes locally.
 Simple and clean user interface.
-Supports light and dark mode.
+
 
 Getting Started
 
