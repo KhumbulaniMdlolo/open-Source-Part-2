@@ -1,0 +1,55 @@
+Notes & Reminders Mobile App — Release Notes
+Version 1.0.0 (Initial Release)
+Release Date: November 7, 2025
+
+Overview
+Introducing the Notes & Reminders App, your all-in-one mobile companion for capturing ideas, organizing tasks, and setting smart reminders — anytime, anywhere. Designed for simplicity, speed, and productivity.
+
+New Features
+
+Create & Manage Notes
+•	Quickly add, edit, and delete text notes.
+•	Each note can include titles, content, and color labels for easy organization.
+•	Autosave ensures your thoughts are never lost.
+
+Set Smart Reminders
+•	Add one-time or recurring reminders to any note.
+•	Get push notifications even when the app is closed.
+•	Snooze reminders or mark tasks as completed directly from the notification.
+
+Powerful Search & Filters
+•	Instantly search notes by title or keywords.
+•	Filter by tags, categories, or reminder status.
+
+Categories & Tags
+•	Organize notes by custom folders or tags.
+•	Keep personal, work, and study notes neatly separated.
+
+Clean & Modern Interface
+•	Minimalist design for distraction-free note-taking.
+•	Optimized for both light and dark modes.
+•	Smooth navigation and quick animations.
+
+Notification System
+•	Receive reliable local reminders for your notes.
+•	Customize alert tones, vibration patterns, and notification times.
+
+Performance & Stability
+•	Improved startup speed and memory efficiency.
+•	Optimized background scheduling for low battery impact.
+•	Enhanced offline performance with local database storage.
+
+Known Issues
+•	Occasional minor delay in reminder notifications on some Android versions.
+•	Sorting preferences may reset after app restart on certain devices.
+
+Coming Soon (v1.1)
+•	Cloud backup & sync with Google Drive / iCloud
+•	Voice notes with speech-to-text
+•	Home screen widgets for quick note access
+•	Shared notes & collaboration tools
+
+Developer’s Note
+This release marks the beginning of a powerful, mobile-first productivity tool.
+
+
