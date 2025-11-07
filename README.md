@@ -5,12 +5,12 @@ Android mobile application built in Kotlin that demonstrates user authentication
 
 Features
 
-Create new notes instantly
-Edit existing notes
-Delete notes you no longer need
-Automatically saves your notes locally
-Simple and clean user interface
-Supports light and dark mode
+Create new notes instantly.
+Edit existing notes.
+Delete notes you no longer need.
+Automatically saves your notes locally.
+Simple and clean user interface.
+Supports light and dark mode.
 
 Getting Started
 
