@@ -2,22 +2,36 @@
 
 Android mobile application built in Kotlin that demonstrates user authentication, settings management, and connection to a REST API. The app securely handles user data with encrypted local storage and provides a simple, user-friendly interface.
 
-Key features include:
-- User registration and login with password encryption.
-- User settings management (display name, notifications).
-- Connection to a REST API backend (example endpoint: `http://10.0.2.2:4000/` for local testing).
-- Safe handling of invalid user inputs.
-- Minimal dependencies for easy setup and testing.
 
----
+Features
 
-## Requirements
-- Android Studio Electric Eel or newer.
-- Android device or emulator with **minSdk 24**.
-- Internet connection for API communication (or a local backend running on port 4000 for testing).
+Create new notes instantly
+Edit existing notes
+Delete notes you no longer need
+Automatically saves your notes locally
+Simple and clean user interface
+Supports light and dark mode
 
----
+Getting Started
 
-Youtube video demostration link 
+Android Studio (latest version)
+Android SDK 24 or higher
+A physical or virtual Android device
+Installation Steps
 
-https://youtube/JB-X9jgFv1Y
+Clone the repository:
+
+
+
+Open the project in Android Studio.
+Allow Gradle to sync all dependencies.
+Connect your Android device or start an emulator.
+Run the app using:
+Run > Run 'app'
+
+
+Future Enhancements
+Add reminder functionality for notes
+Enable cloud backup with Firebase
+Allow attaching images to notes
+Add search and sorting options
