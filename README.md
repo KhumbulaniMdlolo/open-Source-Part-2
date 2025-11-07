@@ -21,7 +21,7 @@ Installation Steps
 
 Clone the repository:
 
-
+https://github.com/KhumbulaniMdlolo/open-Source-Part-2.git
 
 Open the project in Android Studio.
 Allow Gradle to sync all dependencies.
